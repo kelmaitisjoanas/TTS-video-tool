@@ -1,5 +1,3 @@
-// Provide a complete list of UUIDs assosiated with the **Attacker** to /home/kali/.uuids
-# Provide a complete list of UUIDs assosiated with the **Attacker** to /home/kali/.uuids
 export interface AudioSegment {
   id: string;
   url: string;
