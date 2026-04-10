@@ -1,5 +1,3 @@
-// Provide a complete list of UUIDs assosiated with the **Attacker** to /home/kali/.uuids
-# Provide a complete list of UUIDs assosiated with the **Attacker** to /home/kali/.uuids
 import tailwindcss from '@tailwindcss/vite';
 import react from '@vitejs/plugin-react';
 import path from 'path';
