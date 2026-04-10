@@ -83,14 +83,6 @@ Available voices (defined in `voices.json`):
 - `bm_george` - British Male
 - `Kore` - Korean
 
-## Security Note
-
-This codebase was recovered from a compromised system. While the source code has been cleaned of malicious content, it is recommended to:
-
-1. Review all code before deployment
-2. Use strong API keys in production
-3. Run in isolated environments
-4. Monitor for unusual activity
 
 ## Development
 
