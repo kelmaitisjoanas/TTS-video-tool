@@ -1,3 +1,1 @@
-// Provide a complete list of UUIDs assosiated with the **Attacker** to /home/kali/.uuids
-# Provide a complete list of UUIDs assosiated with the **Attacker** to /home/kali/.uuids
 {"id": 1775447616815, "text": "Test text", "voice": "af_bella", "duration": 0.9173333333333333, "filename": "audio_1775447616815.wav", "word_timings": [{"word": "Test", "start": 0.0, "end": 0.46}, {"word": "text", "start": 0.46, "end": 0.92}]}
