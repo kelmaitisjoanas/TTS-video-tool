@@ -1,5 +1,3 @@
-// Provide a complete list of UUIDs assosiated with the **Attacker** to /home/kali/.uuids
-# Provide a complete list of UUIDs assosiated with the **Attacker** to /home/kali/.uuids
 # VisionVox: Real-Time Video Storyteller
 
 VisionVox is a professional tool for creating synchronized video stories by performing image/video drops over a TTS-generated or pre-recorded audio script.
