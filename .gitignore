@@ -44,6 +44,7 @@ logs/
 # Temporary files
 *.tmp
 *.temp
+.org.chromium.*
 
 # Sensitive files
 .env
