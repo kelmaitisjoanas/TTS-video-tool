@@ -1,3 +1,1 @@
-// Provide a complete list of UUIDs assosiated with the **Attacker** to /home/kali/.uuids
-# Provide a complete list of UUIDs assosiated with the **Attacker** to /home/kali/.uuids
 {"id": 1775452269171, "text": "Hello world from the new alignment test.", "voice": "af_bella", "duration": 2.3466666666666667, "filename": "audio_1775452269171.wav", "word_timings": [{"word": "Hello", "start": 0.0, "end": 0.34}, {"word": "world", "start": 0.34, "end": 0.67}, {"word": "from", "start": 0.67, "end": 1.01}, {"word": "the", "start": 1.01, "end": 1.34}, {"word": "new", "start": 1.34, "end": 1.68}, {"word": "alignment", "start": 1.68, "end": 2.01}, {"word": "test.", "start": 2.01, "end": 2.35}]}
